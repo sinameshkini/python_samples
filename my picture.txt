@@ -1,0 +1,1 @@
+{"message":"ok","longitude":"54.48","latitude":"36.82","status":"1","name":"sensor1","description":"","price":"0","ha":"0","hb":"0","multi":"1","sampling_rate":"3","bias_value":"93","coefficent":"0","max_level":"5","hysteresis_value":"5","mobile_phone1":"0911","mobile_phone2":"937","mobile_phone3":"09379"}
